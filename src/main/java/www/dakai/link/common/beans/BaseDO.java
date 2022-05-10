@@ -29,7 +29,7 @@ public class BaseDO {
     /**
      * 更新用户
      */
-    private String updateUser = RequestContext.current().getId();
+    private String updateUser;
     /**
      * 删除标识
      */

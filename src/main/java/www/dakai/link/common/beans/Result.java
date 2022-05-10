@@ -4,8 +4,7 @@ import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
 import lombok.experimental.Accessors;
 
-import static com.pi2star.mes.common.beans.ResultCodeEnum.SUCCESS;
-
+import static www.dakai.link.common.beans.ResultCodeEnum.SUCCESS;
 
 @Data
 @Accessors(chain = true)

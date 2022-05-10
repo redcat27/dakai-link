@@ -1,6 +1,5 @@
-package www.dakai.link.common.handler;
+package www.dakai.link.common.mybatis.handler;
 
-import com.pi2star.mes.common.beans.JsonPojo;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.springframework.beans.BeansException;
@@ -10,6 +9,7 @@ import org.springframework.core.io.Resource;
 import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
 import org.springframework.core.type.classreading.CachingMetadataReaderFactory;
 import org.springframework.stereotype.Component;
+import www.dakai.link.common.beans.JsonPojo;
 
 import java.io.IOException;
 

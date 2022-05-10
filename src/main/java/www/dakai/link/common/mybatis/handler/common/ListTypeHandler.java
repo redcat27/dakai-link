@@ -1,4 +1,4 @@
-package www.dakai.link.common.handler.common;
+package www.dakai.link.common.mybatis.handler.common;
 
 import org.apache.ibatis.type.*;
 import org.springframework.util.CollectionUtils;
